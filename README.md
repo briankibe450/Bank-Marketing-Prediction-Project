@@ -50,9 +50,7 @@ Encode categorical variables.
 Scale numerical features.
 Split the data into training and testing sets.
 Notebook: notebooks/preprocessing.ipynb
-Script: src/preprocessing.py
 
-Predictive Modeling:
 
 Logistic Regression:
 
